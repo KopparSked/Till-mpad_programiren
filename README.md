@@ -92,7 +92,7 @@ Sprint 4:
 
 *** Roles and Responsibilities ***
 
-Victor Vorontsov (Team Member)
-Ritvars Birovs (Scrum Master)
-Albin Kopparhed (Product Manager)
-Daniel Ollas (Team Member)
+- Victor Vorontsov (Team Member)
+- Ritvars Birovs (Scrum Master)
+- Albin Kopparhed (Product Manager)
+- Daniel Ollas (Team Member)
