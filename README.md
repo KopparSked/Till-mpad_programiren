@@ -76,18 +76,29 @@ This open-world game offers players the freedom to explore, complete quests, bat
 *** Sprints 1, 2, 3, and 4 *** 
 
 Sprint 1:
-- Duration: X weeks
+- Make a 3D world with objects (nature, (trees, rocks etc.))
+- simple human (simple movement, (360 degree movement, camera view (POV))
+Duration (sprint 1):
+- Done to (2023-11-08) 
 
 Sprint 2:
-- Duration: X weeks
+- Implement more movement (jump, crouch etc.)
+- Add challenges into the 3D world that follows a "red thread"
+- Add checkpoints and a start/win hub
+Duration (sprint 2):
+- Done to (2023-x-x)
 
 Sprint 3:
-- Duration: X weeks
+- Add simple API AI bosses/enemies
+- more content
+Duration (sprint 3):
+- Done to (2023-x-x)
 
 Sprint 4:
-- Duration: X weeks
-- Graphic Design
-
+- Add graphics (object movement (winds, colors))
+- more content
+Duration (sprint 4):
+- Done to (2023-x-x)
 -----------------------------------------------------------------------------------------------------------------------------
 
 *** Roles and Responsibilities ***
