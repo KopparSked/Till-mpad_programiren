@@ -86,9 +86,10 @@ Sprint 2:
 - Implement more movement (jump, crouch etc.)
 - Add challenges into the 3D world that follows a "red thread"
 - Add checkpoints and a start/win hub
+- Make soundtrack for the game / sound effects
   
 Duration (sprint 2):
-- Done to (2023-x-x)
+- Done to (2023-1-17)
 
 Sprint 3:
 - Add simple API AI bosses/enemies
