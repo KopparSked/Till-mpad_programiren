@@ -93,7 +93,9 @@ Duration (sprint 2):
 
 Sprint 3:
 - Add simple API AI bosses/enemies
-- more content
+- Add sound effects/soundtracks
+- Fix start menu / pause menu
+  
   
 Duration (sprint 3):
 - Done to (2023-x-x)
