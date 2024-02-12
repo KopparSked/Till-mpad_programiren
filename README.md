@@ -96,9 +96,8 @@ Sprint 3:
 - Add sound effects/soundtracks
 - Fix start menu / pause menu
   
-  
 Duration (sprint 3):
-- Done to (2023-x-x)
+- Done to (2023-3-11)
 
 Sprint 4:
 - Add graphics (object movement (winds, colors))
@@ -113,4 +112,4 @@ Duration (sprint 4):
 - Victor Vorontsov (Team Member)
 - Ritvars Birovs (Scrum Master)
 - Albin Kopparhed (Product Manager)
-- Daniel Ollas (Team Member)
+
