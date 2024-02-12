@@ -101,7 +101,7 @@ Duration (sprint 3):
 
 Sprint 4:
 - Add graphics (object movement (winds, colors))
-- more content
+- Make a more detailed world with soundtrack and sound effects
   
 Duration (sprint 4):
 - Done to (2023-x-x)
